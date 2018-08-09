@@ -1,0 +1,12 @@
+/**
+ * Created by host on 2018/5/14.
+ */
+const  mutationTag={
+    DATA_MUSICLIST:"DATA_MUSICLIST",
+    DATA_SHOWMUSIC:"DATA_SHOWMUSIC",
+    DATA_CHOICEMUSIC:"DATA_CHOICEMUSIC",
+    DATA_SINGER:" DATA_SINGER",
+    DATA_PLAYERLIST:"DATA_PLAYERLIST",
+    DATA_MV:"DATA_MV"
+};
+export  default  mutationTag;
